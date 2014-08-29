@@ -1,0 +1,72 @@
+body
+{
+	background-color:#ffffff;<!--#f15ff5-->
+	font-family:"Maiandra GD",arial;
+}
+header, section, article, aside{
+	background: black;	
+    -webkit-box-shadow: #000001 16px 16px 16px;
+    -moz-box-shadow: rgba(255, 255, 255, 0.5) 0px 0px 16px;
+    box-shadow: rgba(25, 25, 25, 0.5) 0px 16px 16px;
+	border-radius: 0.5em;
+	margin-top: -100px;
+	max-width: 100%;
+	padding: 0.3em;
+	text-align: center;
+	color: #ffffff;
+	max-height: 
+}
+
+.menu{
+	margin-right: 100%;
+}
+header{
+	background: transparen;
+}
+section{
+	background: url(../img/red-tree-wallpaper-hd.jpeg);
+	margin:0px ;
+}
+article, aside{
+	display: inline-block;
+	margin:0.1em;
+	max-width: 70%;
+	padding: 1em;
+	width: 100%;
+}
+aside{ 
+	max-width: 20%;
+	padding: 1em;
+	width: 100%;
+	vertical-align: right;
+	margin-top: 100px;
+}
+nav ul
+{
+	display:inline-block;
+	margin-right: 20px;
+	color: #ddffdf;
+	color: #1d1d1d;
+	cursor: pointer;
+}
+h1,p
+{
+	text-align: left;
+}
+a
+{
+	color: purple;
+	font-weight: bold;
+}
+h1 {
+		
+	color: orange;	
+	font-size:1em;
+	text-align:left;
+}
+h2 {
+		
+	color: coral;	
+	font-size:1.5em;
+	text-align:left;
+}
